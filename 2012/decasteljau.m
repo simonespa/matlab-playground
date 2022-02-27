@@ -1,0 +1,4 @@
+function decasteljau(Punti)
+
+end
+
